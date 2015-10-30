@@ -21,6 +21,7 @@ sudo apt-get install xclip
 
 # Install VIM
 sudo apt-get install vim
+<<<<<<< HEAD
 
 # Set VIM as the default editor
 sudo update-alternatives --set editor /usr/bin/vim.basic
