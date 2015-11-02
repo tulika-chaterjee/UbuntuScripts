@@ -25,5 +25,8 @@ sudo apt-get install vim
 # Set VIM as the default editor
 sudo update-alternatives --set editor /usr/bin/vim.basic
 
+# Install terminator
+sudo apt-get install terminator
+
 
 
