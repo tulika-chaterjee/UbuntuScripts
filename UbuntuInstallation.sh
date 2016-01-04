@@ -28,5 +28,21 @@ sudo update-alternatives --set editor /usr/bin/vim.basic
 # Install terminator
 sudo apt-get install terminator
 
+# Manually adjust brightness
+
+# Manually install sogou pinyin inpute method
+
+# Manually download and install sublime text 3, choose color scheme as "slush & puppies"
+
+# Manually configure vim
+
+# Install the diff and merge tool Meld
+sudo apt-get install meld
+
+# Install oracle jdk
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+
 
 
