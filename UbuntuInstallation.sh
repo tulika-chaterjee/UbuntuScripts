@@ -24,6 +24,7 @@ sudo apt-get install vim
 
 # Set VIM as the default editor
 sudo update-alternatives --set editor /usr/bin/vim.basic
+# Manually configure vim
 
 # Install terminator
 sudo apt-get install terminator
@@ -33,8 +34,6 @@ sudo apt-get install terminator
 # Manually install sogou pinyin inpute method
 
 # Manually download and install sublime text 3, choose color scheme as "slush & puppies"
-
-# Manually configure vim
 
 # Install the diff and merge tool Meld
 sudo apt-get install meld
